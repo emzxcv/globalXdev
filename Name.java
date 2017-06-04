@@ -1,5 +1,3 @@
-package globalX;
-
 
 public class Name implements Comparable<Name> {
     private final String firstName, lastName;
