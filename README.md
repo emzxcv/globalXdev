@@ -1,4 +1,4 @@
-# globalXdev
+# nameSorterJava
 
 On command line:
 1. Run 'javac SortNames.java' 
